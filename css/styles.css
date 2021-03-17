@@ -1,0 +1,177 @@
+body{
+  background-color: #D4E9EE;
+  margin: 0;
+  font-size: 1.2rem;
+  color: #40510e;
+
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 4px;
+  width: 5%;
+}
+
+h1{
+  color: white;
+  margin-top: 20px;
+  font-family: 'Sacramento', cursive;
+  font-size: 2.5rem;
+
+}
+
+h3{
+  color: #66bfbf;
+
+}
+div{
+  margin-left: 0;
+  margin-right: 0;
+  background-color: #D4E9EE;
+}
+img{
+  margin: 0;
+}
+
+a{
+  color: #11999e;
+  margin: 10px 20px 10px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #eaf6f6;
+}
+/********Class CSS *****/
+
+.header{
+  position: static;
+}
+.abba{
+  padding: 10px;
+  position: relative;
+  left: 15%;
+}
+.header-2{
+  background-color: #66bfbf;
+}
+
+.home{font-size: 1.2rem;
+color: #11999e;
+padding: 20px;
+position: relative;
+left: 35%;
+top: -30px;
+
+}
+
+.top-contact{
+  font-size: 1.2rem;
+  color: #11999e;
+  padding: 20px;
+  position: relative;
+  left: 60%;
+  top: -30px;
+}
+
+.about{
+
+  font-size: 1.2rem;
+  color: #11999e;
+  padding: 20px ;
+  position: relative;
+  left: 57%;
+  top: -30px;
+  margin: 0;
+}
+.top-paragraph{
+  margin-top: -20px;
+
+
+}
+.middle{
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}
+.top-cloud{
+  position: absolute;
+  margin-top: 170px;
+  margin-left: 9%;
+
+}
+.bottom-cloud{
+  position:absolute;
+  margin-top: 45px;
+
+}
+
+.bottom{
+  background-color: red;
+  width: 200px;
+  height: 200px;
+}
+.mountain{
+  margin-bottom: -4px;
+}
+
+
+.top-container{
+  background-color: #66bfbf;
+  padding-top: 50px;
+  position: relative;
+}
+
+.footer-link{
+  color: #40510e;
+  position: relative;
+  left: 10%;
+  font-size: 0.9rem;
+}
+
+.line-below{
+  border-style: solid;
+  border-color: grey;
+  border-width: 1px;
+  width: 80%;
+  position: relative;
+}
+
+.BUTTON_SYM {
+   background: #66bfbf;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: black;
+   font-size: 1.5rem;
+   font-weight: 100;
+   padding: 10px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_SYM:hover {
+   border: solid #327FED 1px;
+   background: #66bfb4;
+   text-decoration: none;
+}
+
+.copyright{
+  font-size: 0.9rem;
+  color: #eaf6f6;
+  padding: 20px -100% -200px 20px;
+  margin-right: -200px;
+  margin-top: -20px;
+  position: relative;
+  left: 77%;
+
+}
+
+.bottom-container{
+  background-color: #66bfbf;
+  margin-bottom: -10;
+  padding: 20px 0 20px;
+}
